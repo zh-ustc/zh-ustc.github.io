@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am an incoming PhD student in University of Science and Technology of China (USTC), My on-campus mentor is Xiangyang Li, and my off-campus mentor is Tao Qin.
 
 A data-driven personal website
 ======
