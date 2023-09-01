@@ -83,9 +83,8 @@ author:
   name             : "Wei Zhang"
   avatar           : "Identification_Photo.jpg"
   bio              : "PhD Student, USTC" # University of Science and Technology of China
-  bio2             : "MSR AI4Science Asia Group"
   location         : "Hefei, China"
-  employer         :
+  employer         : "MSR AI4Science Asia Group"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=byi2Z98AAAAJ&hl=en&oi=sra"
   email            : "weizhang_cs@mail.ustc.edu.cn"
