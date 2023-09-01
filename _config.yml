@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wei Zhang"
+title                    : "Wei Zhang123"
 title_separator          : "-"
-name                     : &name "Wei Zhang"
+name                     : &name "Wei Zhang456"
 description              : &description "PhD Student at University of Science and Technology of China"
 url                      : https://weizhang-ustc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
