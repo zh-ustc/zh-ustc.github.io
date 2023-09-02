@@ -17,6 +17,6 @@ Publications
 
 Awards
 ------
-National Scholarship, 2022
-Outstanding Graduates of Universities in Anhui Province, 2023
-First Prize in China/Contemporary Undergraduate Mathematical Contest in Modelling (CUMCM), 2021
+National Scholarship, 2022<br>
+Outstanding Graduates of Universities in Anhui Province, 2023<br>
+First Prize in China/Contemporary Undergraduate Mathematical Contest in Modelling (CUMCM), 2021<br>
