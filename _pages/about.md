@@ -14,11 +14,11 @@ Publications
 ------
 (*: Equal Contribution)
 
-- [MolXPT: Wrapping Molecules with Text for Generative Pre-training](https://arxiv.org/pdf/2305.10688.pdf)<br>
+- [**MolXPT: Wrapping Molecules with Text for Generative Pre-training**](https://arxiv.org/pdf/2305.10688.pdf)<br>
   Zequn Liu\*, **Wei Zhang**\*, Yingce Xia, Lijun Wu, Shufang Xie, Tao Qin, Ming Zhang, Tie-Yan Liu<br>
   Will appear in ACL 2023.
 
-- [Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models](https://arxiv.org/pdf/2308.14149.pdf)<br>
+- [**Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models**](https://arxiv.org/pdf/2308.14149.pdf)<br>
   Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, QiZhi Pei, Jie Shao, **Wei Zhang**
 
 
