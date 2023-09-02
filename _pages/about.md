@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PhD student in University of Science and Technology of China (USTC), My on-campus mentor is [**Xiangyang Li**](http://staff.ustc.edu.cn/~xiangyangli), and my off-campus mentor is [**Tao Qin**](https://www.microsoft.com/en-us/research/people/taoqin).
+I am a PhD student at University of Science and Technology of China (USTC) and also a member of the USTC and Microsoft Research Asia (MSRA) joint PhD program. My on-campus mentor is [**Xiangyang Li**](http://staff.ustc.edu.cn/~xiangyangli), and my off-campus mentor is [**Tao Qin**](https://www.microsoft.com/en-us/research/people/taoqin). During my senior academic year, I have worked as a research intern under the mentorship of **Yingce Xia** in MSR AI4Science Aisa Group.
 
 Publications
 ------
