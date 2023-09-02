@@ -13,10 +13,24 @@ I am an incoming PhD student in University of Science and Technology of China (U
 Publications
 ------
 
+(*: Equal Contribution)
+
+- [MolXPT: Wrapping Molecules with Text for Generative Pre-training](https://arxiv.org/pdf/2305.10688.pdf) 
+
+  Zequn Liu\*, **Wei Zhang**\*, Yingce Xia, Lijun Wu, Shufang Xie, Tao Qin, Ming Zhang, Tie-Yan Liu
+
+  Will appear in ACL 2023.
+
+- [Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models](https://arxiv.org/pdf/2308.14149.pdf)
+
+  Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, QiZhi Pei, Jie Shao, **Wei Zhang**
 
 
-Awards
+
+
+Selected Awards
 ------
-National Scholarship, 2022<br>
-Outstanding Graduates of Universities in Anhui Province, 2023<br>
-First Prize in China/Contemporary Undergraduate Mathematical Contest in Modelling (CUMCM), 2021<br>
+
+- National Scholarship, 2022
+- Outstanding Graduates of Universities in Anhui Province, 2023
+- First Prize in China/Contemporary Undergraduate Mathematical Contest in Modelling (CUMCM), 2021
