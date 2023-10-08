@@ -18,7 +18,7 @@ Publications
   Zequn Liu\*, **Wei Zhang**\*, Yingce Xia, Lijun Wu, Shufang Xie, Tao Qin, Ming Zhang, Tie-Yan Liu<br>
   In ACL 2023.
 
-- [**BioT5: Enriching Cross-model Integration in Biology with Chemical Knowledge and Natural Language Associations**]<br>
+- **BioT5: Enriching Cross-model Integration in Biology with Chemical Knowledge and Natural Language Associations**<br>
   Qizhi Pei, **Wei Zhang**, Jinhua Zhu, Kehan Wu, Kaiyuan Gao, Lijun Wu, Yingce Xia, Rui Yan<br>
   Will appear in EMNLP 2023.
 
