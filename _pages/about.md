@@ -16,11 +16,14 @@ Publications
 
 - [**MolXPT: Wrapping Molecules with Text for Generative Pre-training**](https://arxiv.org/pdf/2305.10688.pdf)<br>
   Zequn Liu\*, **Wei Zhang**\*, Yingce Xia, Lijun Wu, Shufang Xie, Tao Qin, Ming Zhang, Tie-Yan Liu<br>
-  Will appear in ACL 2023.
+  In ACL 2023.
+
+- [**BioT5: Enriching Cross-model Integration in Biology with Chemical Knowledge and Natural Language Associations**]<br>
+  Qizhi Pei, **Wei Zhang**, Jinhua Zhu, Kehan Wu, Kaiyuan Gao, Lijun Wu, Yingce Xia, Rui Yan<br>
+  Will appear in EMNLP 2023.
 
 - [**Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models**](https://arxiv.org/pdf/2308.14149.pdf)<br>
   Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, QiZhi Pei, Jie Shao, **Wei Zhang**
-
 
 
 
