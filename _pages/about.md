@@ -26,7 +26,7 @@ Publications
   Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, QiZhi Pei, Jie Shao, **Wei Zhang**
 
 - [**Nature Language Model: Deciphering the Language of Nature for Scientific Discovery**](https://arxiv.org/pdf/2502.07527)<br>
-  **MSR AI4Science NatureLM team**
+  MSR AI4Science NatureLM team
 
 
 
