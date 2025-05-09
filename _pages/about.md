@@ -25,6 +25,9 @@ Publications
 - [**Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models**](https://arxiv.org/pdf/2308.14149.pdf)<br>
   Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, QiZhi Pei, Jie Shao, **Wei Zhang**
 
+- [**Nature Language Model: Deciphering the Language of Nature for Scientific Discovery**](https://arxiv.org/pdf/2502.07527)<br>
+  **Microsoft Research AI for Science NatureLM team**
+
 
 
 Selected Awards
