@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+
+
+I’m Hao Zhang, or 章浩 (legal name). I graduated from [USTC](https://www.ustc.edu.cn/) (2022: Bachelor of Engineering in CS, 2025: Master of Engineering in Data Science).  My research and work focus on Data Mining and Recommendation System.
+
 ## Educations
 
 - University of Science and Technology of China, School of Artificial Intelligence and Data Science, Master of Engineering in Data Science (2022~2025)
