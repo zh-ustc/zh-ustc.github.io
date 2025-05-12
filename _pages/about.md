@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I’m Hao Zhang, or 章浩 (legal name). I graduated from <a href="https://www.ustc.edu.cn/">USTC</a> (2022: Bachelor of Engineering in CS, 2025: Master of Engineering in Data Science). Then I work at <a href="https://www.bytedance.com/">ByteDance</a>. My research and work focus on recommendation system.
-
 ## Educations
 
 - University of Science and Technology of China, School of Artificial Intelligence and Data Science, Master of Engineering in Data Science (2022~2025)
-- University of Science and Technology of China, School of Gifted Young, Bachelor of Engineering in Computer Science (2018~2022)
+- University of Science and Technology of China, School of Gifted Young, Bachelor of Engineering in Computer Science (2018 ~ 2022)
 
 Publications
 ------
@@ -24,18 +22,27 @@ Publications
   In DASFAA 2024.
   
 - [**Towards personalized evaluation of large language models with an anonymous crowd-sourcing platform**](https://arxiv.org/pdf/2403.08305)<br>
-  Mingyue Cheng, **Hao Zhang**, Jiqian Yang, Qi Liu, Li Li, Xin Huang, Liwei Song, Zhi Li, Zhenya Huang, Enhong Chen
+  Mingyue Cheng, **Hao Zhang**, Jiqian Yang, Qi Liu, Li Li, Xin Huang, Liwei Song, Zhi Li, Zhenya Huang, Enhong Chen<br>In WWW 2024.
 
-  In WWW 2024.
-  
 - [**Learning the Dynamics in Sequential Recommendation by Exploiting Real-time Information**](https://dl.acm.org/doi/abs/10.1145/3627673.3679955)<br>
   
-  Rujiao Zhang, **Hao Zhang**, Yucong Luo, Zhiding Liu, Mingyue Cheng, Qi Liu, Enhong Chen
+  Rujiao Zhang, **Hao Zhang**, Yucong Luo, Zhiding Liu, Mingyue Cheng, Qi Liu, Enhong Chen<br>In CIKM 2024.
   
-  In CIKM 2024.
+
+## Work Experiences
+
+- Tencent, Wexin Group (WXG), Wechat Video Channel Search Algorithm Engineer (2024.6 ~ 2024.10, Beijing)
+- ByteDance, Data-Douyin-Recommendation (2025.6 ~ now, Shanghai)
 
 Selected Awards
 ------
+
+- 3rd Place of  Overall 3 Tasks in Amazon KDD Cup 2023
+
 - Huawei Scholarship, 2024
+
 - Outstanding Graduates of USTC, 2022
+
 - First Prize in China Undergraduate Mathematical Contest in Modelling (CUMCM), 2021
+
+  
