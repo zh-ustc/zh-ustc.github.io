@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wei Zhang"
+  name             : "Hao Zhang"
   avatar           : "Identification_Photo.jpg"
-  bio              : "PhD Student, USTC & MSR AI4Science Asia Group" # University of Science and Technology of China
+  bio              : "Master Student, University of Science and Technology of China" # University of Science and Technology of China
   location         : "Hefei, China"
   employer         : 
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=byi2Z98AAAAJ&hl=en&oi=sra"
-  email            : "weizhang_cs@mail.ustc.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=KsBPyuEAAAAJ&hl=zh-CN"
+  email            : "zh2001@mail.ustc.edu.cn"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "weizhang-ustc"
+  github           : "zh-ustc"
   google_plus      :
   keybase          :
   instagram        :

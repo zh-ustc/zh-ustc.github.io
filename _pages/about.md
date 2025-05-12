@@ -12,6 +12,9 @@ I’m Hao Zhang, or 章浩 (legal name). I graduated from <a href="https://www.u
 
 ## Educations
 
+- University of Science and Technology of China, School of Artificial Intelligence and Data Science, Master of Engineering in Data Science (2022~2025)
+- University of Science and Technology of China, School of Gifted Young, Bachelor of Engineering in Computer Science (2018~2022)
+
 Publications
 ------
 - [**Towards automatic sampling of user behaviors for sequential recommender systems.**](https://arxiv.org/pdf/2311.00388)<br>
@@ -30,8 +33,6 @@ Publications
   Rujiao Zhang, **Hao Zhang**, Yucong Luo, Zhiding Liu, Mingyue Cheng, Qi Liu, Enhong Chen
   
   In CIKM 2024.
-
-
 
 Selected Awards
 ------
