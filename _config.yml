@@ -1,5 +1,10 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
 
-<<<<<<< HEAD
 # Site Settings
 locale                   : "en-US"
 title                    : "Hao Zhang"
@@ -304,5 +309,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-=======
->>>>>>> 5231d771aeed5e7be9a5c5b2f7670817e751c324
