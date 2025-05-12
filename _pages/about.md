@@ -1,13 +1,5 @@
----
-permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
+<<<<<<< HEAD
 
 
 I’m Hao Zhang, or 章浩 (legal name). I graduated from [USTC](https://www.ustc.edu.cn/) (2022: Bachelor of Engineering in CS, 2025: Master of Engineering in Data Science).  My research and work focus on Data Mining and Recommendation System.
@@ -44,3 +36,5 @@ Selected Awards
 - First Prize in China Undergraduate Mathematical Contest in Modelling (CUMCM), 2021
 
   
+=======
+>>>>>>> 5231d771aeed5e7be9a5c5b2f7670817e751c324

@@ -1,17 +1,12 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
 
+<<<<<<< HEAD
 # Site Settings
 locale                   : "en-US"
 title                    : "Hao Zhang"
 title_separator          : "-"
 name                     : &name "Hao Zhang"
 description              : &description "Master Student at University of Science and Technology of China"
-url                      : https://zh-ustc.github.io/home/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zh-ustc.github.io/zhanghao/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zh-ustc/home"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -309,3 +304,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+=======
+>>>>>>> 5231d771aeed5e7be9a5c5b2f7670817e751c324
