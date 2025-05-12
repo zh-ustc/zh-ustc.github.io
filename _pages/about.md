@@ -14,7 +14,7 @@ I’m Hao Zhang, or 章浩 (legal name). I graduated from [USTC](https://www.ust
 
 ## Educations
 
-- University of Science and Technology of China, School of Artificial Intelligence and Data Science, Master of Engineering in Data Science (2022~2025)
+- University of Science and Technology of China, School of Artificial Intelligence and Data Science, Master of Engineering in Data Science (2022 ~ 2025)
 - University of Science and Technology of China, School of Gifted Young, Bachelor of Engineering in Computer Science (2018 ~ 2022)
 
 Publications
