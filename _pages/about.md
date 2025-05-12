@@ -8,30 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at University of Science and Technology of China (**USTC**) and also a member of the **USTC** and Microsoft Research Asia (**MSRA**) joint PhD program. My on-campus mentor is [**Xiangyang Li**](http://staff.ustc.edu.cn/~xiangyangli), and my off-campus mentor is [**Tao Qin**](https://www.microsoft.com/en-us/research/people/taoqin). During my senior academic year, I have worked as a research intern under the mentorship of [**Yingce Xia**](https://www.microsoft.com/en-us/research/people/yinxia/) in MSR AI4Science Aisa Group.
+I’m Hao Zhang, or 章浩 (legal name). I graduated from <a href="https://www.ustc.edu.cn/">USTC</a> (2022: Bachelor of Engineering in CS, 2025: Master of Engineering in Data Science). Then I work at <a href="https://www.bytedance.com/">ByteDance</a>. My research and work focus on recommendation system.
+
+## Educations
 
 Publications
 ------
-(*: Equal Contribution)
+- [**Towards automatic sampling of user behaviors for sequential recommender systems.**](https://arxiv.org/pdf/2311.00388)<br>
+  **Hao Zhang**, Mingyue Cheng*, Zhiding Liu and Junzhe Jiang<br>Accepted In IJCAI 2025.
+  
+- [**Learning Recommender Systems with Soft Target: A Decoupled Perspective**](https://arxiv.org/pdf/2410.06536)<br>**Hao Zhang**, Mingyue Cheng*, Qi Liu, Yucong Luo, Rui Li and Enhong Chen<br>
+  In DASFAA 2024.
+  
+- [**Towards personalized evaluation of large language models with an anonymous crowd-sourcing platform**](https://arxiv.org/pdf/2403.08305)<br>
+  Mingyue Cheng, **Hao Zhang**, Jiqian Yang, Qi Liu, Li Li, Xin Huang, Liwei Song, Zhi Li, Zhenya Huang, Enhong Chen
 
-- [**MolXPT: Wrapping Molecules with Text for Generative Pre-training**](https://arxiv.org/pdf/2305.10688.pdf)<br>
-  Zequn Liu\*, **Wei Zhang**\*, Yingce Xia, Lijun Wu, Shufang Xie, Tao Qin, Ming Zhang, Tie-Yan Liu<br>
-  In ACL 2023.
-
-- [**BioT5: Enriching Cross-model Integration in Biology with Chemical Knowledge and Natural Language Associations**](https://arxiv.org/pdf/2310.07276.pdf)<br>
-  Qizhi Pei, **Wei Zhang**, Jinhua Zhu, Kehan Wu, Kaiyuan Gao, Lijun Wu, Yingce Xia, Rui Yan<br>
-  In EMNLP 2023.
-
-- [**Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models**](https://arxiv.org/pdf/2308.14149.pdf)<br>
-  Kaiyuan Gao, Sunan He, Zhenyu He, Jiacheng Lin, QiZhi Pei, Jie Shao, **Wei Zhang**
-
-- [**Nature Language Model: Deciphering the Language of Nature for Scientific Discovery**](https://arxiv.org/pdf/2502.07527)<br>
-  MSR AI4Science NatureLM team
+  In WWW 2024.
+  
+- [**Learning the Dynamics in Sequential Recommendation by Exploiting Real-time Information**](https://dl.acm.org/doi/abs/10.1145/3627673.3679955)<br>
+  
+  Rujiao Zhang, **Hao Zhang**, Yucong Luo, Zhiding Liu, Mingyue Cheng, Qi Liu, Enhong Chen
+  
+  In CIKM 2024.
 
 
 
 Selected Awards
 ------
-- National Scholarship, 2022
-- Outstanding Graduates of Universities in Anhui Province, 2023
+- Huawei Scholarship, 2024
+- Outstanding Graduates of USTC, 2022
 - First Prize in China Undergraduate Mathematical Contest in Modelling (CUMCM), 2021
