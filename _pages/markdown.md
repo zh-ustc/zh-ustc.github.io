@@ -1,202 +1,46 @@
 ---
 permalink: /
-title: "Markdown"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /about/
+  - /about.html
 ---
 
-## Locations of key files/directories
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
 
-## Tips and hints
+I’m Hao Zhang, or 章浩 (legal name). I graduated from [USTC](https://www.ustc.edu.cn/) (2022: Bachelor of Engineering in CS, 2025: Master of Engineering in Data Science).  My research and work focus on Data Mining and Recommendation System.
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+## Educations
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+- University of Science and Technology of China, School of Artificial Intelligence and Data Science, Master of Engineering in Data Science (2022~2025)
+- University of Science and Technology of China, School of Gifted Young, Bachelor of Engineering in Computer Science (2018 ~ 2022)
 
-## Markdown guide
+Publications
+------
+- [**Towards automatic sampling of user behaviors for sequential recommender systems.**](https://arxiv.org/pdf/2311.00388)<br>
+  **Hao Zhang**, Mingyue Cheng*, Zhiding Liu and Junzhe Jiang<br>Accepted In IJCAI 2025.
+- [**Learning Recommender Systems with Soft Target: A Decoupled Perspective**](https://arxiv.org/pdf/2410.06536)<br>**Hao Zhang**, Mingyue Cheng*, Qi Liu, Yucong Luo, Rui Li and Enhong Chen<br>
+  In DASFAA 2024.
+- [**Towards personalized evaluation of large language models with an anonymous crowd-sourcing platform**](https://arxiv.org/pdf/2403.08305)<br>
+  Mingyue Cheng, **Hao Zhang**, Jiqian Yang, Qi Liu, Li Li, Xin Huang, Liwei Song, Zhi Li, Zhenya Huang, Enhong Chen<br>In WWW 2024.
+- [**Learning the Dynamics in Sequential Recommendation by Exploiting Real-time Information**](https://dl.acm.org/doi/abs/10.1145/3627673.3679955)<br>Rujiao Zhang, **Hao Zhang**, Yucong Luo, Zhiding Liu, Mingyue Cheng, Qi Liu, Enhong Chen<br>In CIKM 2024.
 
-### Header three
+## Work Experiences
 
-#### Header four
+- Tencent, Wexin Group (WXG), Wechat Video Channel Search Algorithm Engineer (2024.6 ~ 2024.10, Beijing)
+- ByteDance, Data-Douyin-Recommendation (2025.6 ~ now, Shanghai)
 
-##### Header five
+Selected Awards
+------
 
-###### Header six
+- 3rd Place of  Overall 3 Tasks in Amazon KDD Cup 2023
 
-## Blockquotes
+- Huawei Scholarship, 2024
 
-Single line blockquote:
+- Outstanding Graduates of USTC, 2022
 
-> Quotes are cool.
+- First Prize in China Undergraduate Mathematical Contest in Modelling (CUMCM), 2021
 
-## Tables
-
-### Table 1
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
+  
