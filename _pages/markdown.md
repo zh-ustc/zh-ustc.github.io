@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /md/
@@ -19,7 +19,7 @@ I’m Hao Zhang, or 章浩 (legal name). I graduated from [USTC](https://www.ust
 Publications
 ------
 - [**Towards automatic sampling of user behaviors for sequential recommender systems.**](https://arxiv.org/pdf/2311.00388)<br>
-  **Hao Zhang**, Mingyue Cheng*, Zhiding Liu and Junzhe Jiang<br>Accepted In IJCAI 2025.
+  **Hao Zhang**, Mingyue Cheng*, Zhiding Liu and Junzhe Jiang<br>In IJCAI 2025.
 - [**Learning Recommender Systems with Soft Target: A Decoupled Perspective**](https://arxiv.org/pdf/2410.06536)<br>**Hao Zhang**, Mingyue Cheng*, Qi Liu, Yucong Luo, Rui Li and Enhong Chen<br>
   In DASFAA 2024.
 - [**Towards personalized evaluation of large language models with an anonymous crowd-sourcing platform**](https://arxiv.org/pdf/2403.08305)<br>
@@ -29,7 +29,7 @@ Publications
 ## Work Experiences
 
 - Tencent, Wexin Group (WXG), Wechat Video Channel Search Algorithm Engineer (2024.6 ~ 2024.10, Beijing)
-- ByteDance, Data-Douyin-Recommendation (2025.6 ~ now, Shanghai)
+- ByteDance, Data-Douyin Short Video Recommendation (2025.6 ~ now, Shanghai)
 
 Selected Awards
 ------
