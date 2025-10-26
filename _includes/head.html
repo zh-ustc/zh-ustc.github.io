@@ -2,6 +2,18 @@
 
 <meta charset="utf-8">
 
+<!-- 修复：确保标题标签正确生成 -->
+<title>
+  {% if page.title %}
+    {{ page.title }} | {{ site.title }}
+  {% else %}
+    {{ site.title }} - {{ site.description }}
+  {% endif %}
+</title>
+
+<!-- 修复：添加完整的meta描述 -->
+<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
 {% include seo.html %}
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
