@@ -1,3 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://zh-ustc.github.io/sitemap.xml
